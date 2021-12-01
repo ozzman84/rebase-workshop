@@ -9,7 +9,8 @@ CONTENTS OF THIS FILE
  * Installation
  * Configuration
  * Troubleshooting
- 
+
+ #This is a git rebase exercise.
 
  INTRODUCTION
 ------------
